@@ -1,0 +1,367 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/*header start*/
+h1{
+	font-size: 28px;
+	margin-bottom: 18px;
+	line-height: 36px;
+}
+p{
+	margin-bottom: 18px;
+	line-height: 22px;
+}
+/*navigation start*/
+/*navbar start*/
+#mainNav ul li a {
+  padding: 5px 18px; 
+  margin: 10px 0px 10px 0px;  
+}
+#mainNav.navbar-shrink ul li a {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+/*toggler start*/
+
+/*toggler end*/
+/*navbar end*/
+/*navigation end*/
+/*header end*/
+
+/*agency start*/
+.agency_section{
+	padding: 40px 0;
+}
+.buttons_wrap ul li a{
+	width: 100%;
+	text-align: center;
+}
+/*agency end*/
+/*portfolio start*/
+.portfolio_area{
+	padding: 40px 0;
+}
+.portfolio_menu{
+	margin-bottom: 30px;
+}
+.portfolio_menu button{
+    padding: 6px 14px;
+    margin-right: 14px;
+}
+.portfolio_text h5{
+	font-size: 20px;
+	margin-bottom: 12px;
+}
+/*portfolio end*/
+
+/*brand start*/
+.brand_section{
+	padding: 40px 0;
+}
+/*brand end*/
+/*about us start*/
+.about_section{
+	padding: 40px 0;
+}
+.about_info {
+    width: 66%;
+    left: 15px;
+}
+.about_content h3{
+	font-size: 18px;
+	margin-bottom: 18px;
+}
+/*about us end*/
+/*blog start*/
+.blog_section{
+	padding: 40px 0;
+}
+.effect a{
+	font-size: 20px;
+}
+/*blog end*/
+/*contact start*/
+.contact_section{
+	padding: 40px 0;
+}
+/*contact end*/
+/*footer start*/
+footer{
+	padding: 30px 0;
+}
+.footer_content{
+	text-align: center;
+}
+.footer_content img{
+	margin-bottom: 30px;
+}
+.top_arrow{
+	text-align: center;
+	margin-top: 30px;
+}
+/*footer end*/
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+h1{
+	font-size: 40px;
+	margin-bottom: 22px;
+	line-height: 46px;
+}
+p{
+	margin-bottom: 22px;
+	line-height: 22px;
+}
+/*navigation start*/
+/*navbar start*/
+#mainNav ul li a {
+  padding: 5px 18px; 
+  margin: 10px 0px 10px 0px;  
+}
+#mainNav.navbar-shrink ul li a {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+/*toggler start*/
+
+/*toggler end*/
+/*navbar end*/
+/*navigation end*/
+/*header end*/
+
+/*agency start*/
+.agency_section{
+	padding: 50px 0;
+}
+/*agency end*/
+/*portfolio start*/
+.portfolio_area{
+	padding: 50px 0;
+}
+.portfolio_menu{
+	margin-bottom: 35px;
+}
+.portfolio_menu button{
+    padding: 6px 14px;
+    margin-right: 14px;
+}
+.portfolio_text h5{
+	font-size: 22px;
+	margin-bottom: 12px;
+}
+/*portfolio end*/
+
+/*brand start*/
+.brand_section{
+	padding: 50px 0;
+}
+/*brand end*/
+/*about us start*/
+.about_section{
+	padding: 50px 0;
+}
+.about_info {
+    left: 3%;
+}
+.about_content h3{
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+/*about us end*/
+/*blog start*/
+.blog_section{
+	padding: 50px 0;
+}
+.effect a{
+	font-size: 22px;
+}
+/*blog end*/
+/*contact start*/
+.contact_section{
+	padding: 50px 0;
+}
+/*contact end*/
+/*footer start*/
+footer{
+	padding: 40px 0;
+}
+.footer_content{
+	text-align: center;
+}
+.top_arrow{
+	text-align: center;
+}
+/*footer end*/
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+h1{
+	font-size: 46px;
+	margin-bottom: 24px;
+	line-height: 50px;
+}
+p{
+	margin-bottom: 24px;
+	line-height: 24px;
+}
+/*navigation start*/
+/*navbar start*/
+#mainNav ul li a {
+  padding: 5px 18px; 
+  margin: 10px 0px 10px 0px;  
+}
+#mainNav.navbar-shrink ul li a {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+/*toggler start*/
+
+/*toggler end*/
+/*navbar end*/
+/*navigation end*/
+/*header end*/
+
+/*agency start*/
+.agency_section{
+	padding: 70px 0;
+}
+/*agency end*/
+/*portfolio start*/
+.portfolio_area{
+	padding: 70px 0;
+}
+.portfolio_menu{
+	margin-bottom: 40px;
+}
+.portfolio_menu button{
+    padding: 6px 16px;
+    margin-right: 16px;
+}
+.portfolio_text h5{
+	font-size: 24px;
+	margin-bottom: 12px;
+}
+/*portfolio end*/
+
+/*brand start*/
+.brand_section{
+	padding: 70px 0;
+}
+/*brand end*/
+/*about us start*/
+.about_section{
+	padding: 70px 0;
+}
+.about_content h3{
+	margin-bottom: 24px;
+}
+/*about us end*/
+/*blog start*/
+.blog_section{
+	padding: 70px 0;
+}
+.effect a{
+	font-size: 24px;
+}
+/*blog end*/
+/*contact start*/
+.contact_section{
+	padding: 70px 0;
+}
+/*contact end*/
+/*footer start*/
+footer{
+	padding: 50px 0;
+}
+/*footer end*/
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+h1{
+	font-size: 50px;
+	margin-bottom: 28px;
+	line-height: 70px;
+}
+p{
+	margin-bottom: 28px;
+	line-height: 28px;
+}
+/*navigation start*/
+/*navbar start*/
+#mainNav ul li a {
+  padding: 5px 18px;   
+}
+/*toggler start*/
+
+/*toggler end*/
+/*navbar end*/
+/*navigation end*/
+/*header end*/
+
+/*agency start*/
+.agency_section{
+	padding: 90px 0;
+}
+/*agency end*/
+
+/*portfolio start*/
+.portfolio_area{
+	padding: 90px 0;
+}
+.portfolio_menu{
+	margin-bottom: 50px;
+}
+.portfolio_menu button{
+    padding: 9px 18px;
+    margin-right: 18px;
+}
+.portfolio_text h5{
+	font-size: 25px;
+	margin-bottom: 14px;
+}
+/*portfolio end*/
+/*brand start*/
+.brand_section{
+	padding: 90px 0;
+}
+/*brand end*/
+/*about us start*/
+.about_section{
+	padding: 90px 0;
+}
+.about_content h3{
+	margin-bottom: 28px;
+}
+/*about us end*/
+/*blog start*/
+.blog_section{
+	padding: 90px 0;
+}
+.effect a{
+	font-size: 25px;
+}
+/*blog end*/
+
+/*contact start*/
+.contact_section{
+	padding: 90px 0;
+}
+/*contact end*/
+/*footer start*/
+footer{
+	padding: 56px 0;
+}
+/*footer end*/
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+	
+}
